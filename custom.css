@@ -26,3 +26,7 @@
         padding-left: calc(100% - 11.5rem)
     }
 }
+
+.md{
+    background-color: red !important; 
+}
